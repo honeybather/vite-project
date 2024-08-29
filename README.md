@@ -31,6 +31,6 @@
 - `index.html`: HTML structure and entry point
 - `style.css`: Custom styles
 
-## Tutorial followed
+## Tutorial Followed
 
-https://www.youtube.com/watch?v=_OwJV2xL8M8&list=LL&index=16&t=72s
+Inspired by [this tutorial](https://www.youtube.com/watch?v=_OwJV2xL8M8&list=LL&index=16&t=72s).
